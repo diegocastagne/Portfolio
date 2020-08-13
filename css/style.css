@@ -7,6 +7,16 @@ body {
     font-weight: 300;
 }
 
+.hero-picture {
+    background-image: url(images/session_image.png);
+}
+
+@media (min-width: 768px) {
+    .hero-picture {
+        background-image: url(images/landscape_image.png);
+    }
+}
+
 .p1-gradient-bg,
 .thumb .overlay-bg {
     background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
