@@ -1,6 +1,6 @@
 body {
     background: #fff;
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.8);
     background: #222;
     line-height: 1.7;
     font-size: 16px;
@@ -788,7 +788,7 @@ a:active {
 }
 
 .site-contact-details li>span {
-    color: #2c3e50;
+    color: #4e7dac;
     letter-spacing: .1em;
     font-size: 12px;
     font-weight: 500;
